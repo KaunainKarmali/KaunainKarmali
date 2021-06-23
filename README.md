@@ -6,7 +6,7 @@ I am a CPA who discovered a passion for learning to develop front-end applicatio
 
 ![Kaunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaunainKarmali&count_private=true&theme=prussian)
 
-## 💪 Skillz 💪
+## 🤹‍♂️ Skillz 🤹‍♂️
 
 Languages:
 - HTML5
@@ -19,22 +19,22 @@ Frameworks, libraries, and other:
 - NodeJS
 - MongoDB
 - Express
+- jQuery
 - SASS / SCSS
-- 
+- Material-UI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaunainKarmali&theme=prussian)](https://github.com/KaunainKarmali/github-readme-stats)
 
+## ✨ Learning ✨
 
+Actively learning
+- React
 
-## Current learning
+Working towards learning in the near future:
+- Redux
+- Testing with Jenkins
+- Docker / Kubernetes
 
-
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KaunainKarmali/KaunainKarmali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👊 Lets connect! 👊
+- [LinkedIn](www.linkedin.com/in/kaunainkarmali)
+- [Twitter](https://twitter.com/KaunainKarmali)
