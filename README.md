@@ -4,6 +4,8 @@ I am a CPA who discovered a passion for learning to develop front-end applicatio
 
 ## 🦁 Stats 🦁
 
+![view count](https://komarev.com/ghpvc/?username=KaunainKarmali&color=blue)
+
 ![Kaunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaunainKarmali&count_private=true&theme=prussian)
 
 ## 🤹‍♂️ Skillz 🤹‍♂️
