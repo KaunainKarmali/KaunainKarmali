@@ -10,6 +10,8 @@ I am a CPA who discovered a passion for learning to develop front-end applicatio
 
 ## 🤹‍♂️ Skillz 🤹‍♂️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaunainKarmali&theme=prussian&layout=compact)](https://github.com/KaunainKarmali/github-readme-stats)
+
 Languages:
 - HTML5
 - CSS
@@ -24,8 +26,6 @@ Frameworks, libraries, and other:
 - jQuery
 - SASS / SCSS
 - Material-UI
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaunainKarmali&theme=prussian)](https://github.com/KaunainKarmali/github-readme-stats)
 
 ## ✨ Learning ✨
 
