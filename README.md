@@ -12,20 +12,23 @@ I am a CPA who discovered a passion for learning to develop front-end applicatio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaunainKarmali&theme=prussian&layout=compact)](https://github.com/KaunainKarmali/github-readme-stats)
 
-Languages:
-- HTML5
-- CSS
-- JavaScript (ES6)
-- Python
+Languages: 
+
+![Language](https://img.shields.io/badge/HTML5-blue)
+![Language](https://img.shields.io/badge/CSS-blue)
+![Language](https://img.shields.io/badge/JavaScript(ES6)-blue)
+![Language](https://img.shields.io/badge/Python-blue)
 
 Frameworks, libraries, and other:
-- React
-- NodeJS
-- MongoDB
-- Express
-- jQuery
-- SASS / SCSS
-- Material-UI
+
+![Framework](https://img.shields.io/badge/React-green)
+![Framework](https://img.shields.io/badge/Express-green)
+![Library](https://img.shields.io/badge/MaterialUI-green)
+![Library](https://img.shields.io/badge/jQuery-green)
+![Other](https://img.shields.io/badge/NodeJS-green)
+![Other](https://img.shields.io/badge/MongoDB-green)
+![Other](https://img.shields.io/badge/SASS-green)
+![Other](https://img.shields.io/badge/SCSS-green)
 
 ## ✨ Learning ✨
 
@@ -38,5 +41,5 @@ Working towards learning in the near future:
 - Docker / Kubernetes
 
 ## 👊 Lets connect! 👊
-- [LinkedIn](www.linkedin.com/in/kaunainkarmali)
+- [LinkedIn](https://www.linkedin.com/in/kaunainkarmali)
 - [Twitter](https://twitter.com/KaunainKarmali)
