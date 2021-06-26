@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @KaunainKarmali
 
-I am a CPA who discovered a passion for learning to develop front-end applications!
+I am a CPA with a passion for developing front-end applications!
 
 ## 🦁 Stats 🦁
 
