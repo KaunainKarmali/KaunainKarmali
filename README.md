@@ -37,7 +37,7 @@ Actively learning
 
 Working towards learning in the near future:
 - Redux
-- Testing with Jenkins
+- Testing
 - Docker / Kubernetes
 
 ## 👊 Lets connect! 👊
