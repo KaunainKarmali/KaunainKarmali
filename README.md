@@ -1,6 +1,8 @@
-# 👋 Hi, I’m @KaunainKarmali
+# 👋 Hi, I’m [Kaunain Karmali](https://www.linkedin.com/in/kaunainkarmali/)
 
 I am a CPA with a passion for developing front-end applications!
+
+Check out my portfolio by clicking [here!](https://www.kaunain.dev/).
 
 ## 🦁 Stats 🦁
 
