@@ -2,7 +2,7 @@
 
 I am a CPA with a passion for developing front-end applications!
 
-Check out my portfolio by clicking [here!](https://www.kaunain.dev/).
+Check out my portfolio by clicking [here!](https://www.kaunain.dev/)
 
 ## 🦁 Stats 🦁
 
