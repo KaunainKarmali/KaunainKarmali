@@ -35,11 +35,11 @@ Frameworks, libraries, and other:
 ## ✨ Learning ✨
 
 Actively learning
-- React
+- GraphQL
+- Testing
 
 Working towards learning in the near future:
 - Redux
-- Testing
 - Docker / Kubernetes
 
 ## 👊 Lets connect! 👊
