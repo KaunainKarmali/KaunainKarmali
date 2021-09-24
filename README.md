@@ -31,6 +31,7 @@ Frameworks, libraries, and other:
 ![Other](https://img.shields.io/badge/MongoDB-green)
 ![Other](https://img.shields.io/badge/SASS-green)
 ![Other](https://img.shields.io/badge/SCSS-green)
+![Other](https://img.shields.io/badge/GraphQL-green)
 
 ## ✨ Learning ✨
 
