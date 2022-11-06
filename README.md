@@ -4,13 +4,13 @@ I am a CPA with a passion for developing front-end applications!
 
 Check out my portfolio by clicking [here!](https://www.kaunain.dev/)
 
-## 🦁 Stats 🦁
+## 🦁 Stats
 
 ![view count](https://komarev.com/ghpvc/?username=KaunainKarmali&color=blue)
 
 ![Kaunain's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaunainKarmali&count_private=true&theme=prussian)
 
-## 🤹‍♂️ Skillz 🤹‍♂️
+## 🤹‍♂️ Skillz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaunainKarmali&theme=prussian&layout=compact)](https://github.com/KaunainKarmali/github-readme-stats)
 
@@ -23,16 +23,18 @@ Languages:
 
 Frameworks, libraries, and other:
 
-![Framework](https://img.shields.io/badge/React-green)
-![Framework](https://img.shields.io/badge/Express-green)
-![Library](https://img.shields.io/badge/MaterialUI-green)
-![Library](https://img.shields.io/badge/jQuery-green)
-![Other](https://img.shields.io/badge/NodeJS-green)
-![Other](https://img.shields.io/badge/MongoDB-green)
-![Other](https://img.shields.io/badge/SASS-green)
-![Other](https://img.shields.io/badge/SCSS-green)
-![Other](https://img.shields.io/badge/GraphQL-green)
+![Framework](https://img.shields.io/badge/React-purple)
+![Framework](https://img.shields.io/badge/Express-purple)
+![Library](https://img.shields.io/badge/MaterialUI-purple)
+![Library](https://img.shields.io/badge/jQuery-purple)
+![Other](https://img.shields.io/badge/NodeJS-purple)
+![Other](https://img.shields.io/badge/MongoDB-purple)
+![Other](https://img.shields.io/badge/SASS-purple)
+![Other](https://img.shields.io/badge/SCSS-purple)
+![Other](https://img.shields.io/badge/GraphQL-purple)
+![Other](https://img.shields.io/badge/Jest-purple)
 
-## 👊 Lets connect! 👊
+
+## 👊 Lets connect!
 - [LinkedIn](https://www.linkedin.com/in/kaunainkarmali)
 - [Twitter](https://twitter.com/KaunainKarmali)
