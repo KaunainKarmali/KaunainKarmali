@@ -33,16 +33,6 @@ Frameworks, libraries, and other:
 ![Other](https://img.shields.io/badge/SCSS-green)
 ![Other](https://img.shields.io/badge/GraphQL-green)
 
-## ✨ Learning ✨
-
-Actively learning
-- GraphQL
-- Testing
-
-Working towards learning in the near future:
-- Redux
-- Docker / Kubernetes
-
 ## 👊 Lets connect! 👊
 - [LinkedIn](https://www.linkedin.com/in/kaunainkarmali)
 - [Twitter](https://twitter.com/KaunainKarmali)
